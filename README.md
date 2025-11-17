@@ -54,3 +54,11 @@ The goal is to demonstrate **advanced SQL skills** used in real-world data analy
 
 ## 📁 Repository Structure
 
+## 🧠 Business Insights Summary
+- Technology category drives the highest revenue.
+- High-value customers represent ~20% but contribute ~60% of sales.
+- Returning customers generate 3x more revenue than new customers.
+- Phone + Accessories frequently appear together (basket insights).
+- Certain months show strong seasonality patterns reflecting shopping cycles.
+
+
